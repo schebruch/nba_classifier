@@ -16,5 +16,8 @@ Possible additional features:
 	Avg FG shooting
 	Avg 3 pt shooting
 	Previous records vs each other (or teams of that rank)
+	Offensive efficiency 
+	defensive efficiency 
+
 
 Apply PCA on 6 years' worth of data 
