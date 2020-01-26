@@ -1,0 +1,20 @@
+Notes for Sports Betting:
+	Baseline: pick the team to win that has higher winning pct than opponent for the season 
+Features (Torres paper):
+	Cumulative W/L (visitor) (W/L) = Wins/GP X
+	Cumulative W/L (home) X
+	Cumulative Point Differential Per Game (Visitor) X
+	Cumulative Point Differential Per Game (Home) X
+	W/L prev 8 games (visitor)
+	W/L prev 8 games (home)
+	Visitor cumulative win/loss as a visitor X
+	home cumulative win/loss as home  X
+
+Possible additional features:
+	Injured players 
+	Avg free throw shooting 
+	Avg FG shooting
+	Avg 3 pt shooting
+	Previous records vs each other (or teams of that rank)
+
+Apply PCA on 6 years' worth of data 
